@@ -1,0 +1,7 @@
+1.Use jupyter notebook
+ a- Install numpy, pandas, nltk if not installed earlier.
+ b- Run the ipython file provided.
+
+2.Use python
+ a- Run BlackCoffer file provided
+ b- Install required libraries if not installed(numpy,pandas,nltk,openpyxl).
